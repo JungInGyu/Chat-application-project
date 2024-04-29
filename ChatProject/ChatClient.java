@@ -80,6 +80,9 @@ public class ChatClient {
         System.out.println("방 입장 : /join [방번호]");
         System.out.println("방 나가기 : /exit");
         System.out.println("접속종료 : /bye");
+        System.out.println("서버에 접속한 유저목록 : /users");
+        System.out.println("현재 채팅방에 접속한 유저목록 : /roomusers");
+        System.out.println("귓속말 : /whisper [닉네임] [내용]");
     }
 }
 
